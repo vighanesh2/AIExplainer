@@ -1,4 +1,5 @@
-###AI Topic Explainer Website
+##AI Topic Explainer Website
+<img width="1728" alt="Screenshot 2025-03-04 at 4 56 55 PM" src="https://github.com/user-attachments/assets/f56a5ae2-e032-4660-b678-f516facf65fd" />
 
 This project is a Next.js web application that interacts with the Anthropic AI API to generate simple, 5-year-old-friendly explanations for user-provided topics. Users can input a topic and name, receive an explanation from the AI, and save the data to a MongoDB database using Mongoose. The website also features a catalog to display previously stored explanations.
 
